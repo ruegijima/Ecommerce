@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063218525340",
+    "project_id": "sign-in-41ff6",
+    "storage_bucket": "sign-in-41ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063218525340:android:d3fde0efd944f3c31ba959",
+        "android_client_info": {
+          "package_name": "com.example.flutter_navagation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063218525340-i8c5mneuqksp6di79b9e9agvndp11128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8A6pryfHA5MUQf1lT3b7DvQU7thgWqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063218525340-i8c5mneuqksp6di79b9e9agvndp11128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
